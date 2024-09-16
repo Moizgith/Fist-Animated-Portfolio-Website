@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Honda Clone",
+    "desc": "Where speed meets innovation! I'm excited to share my latest project - a website for auto motors Honda Civic enthusiasts. Check it out and let me know what you think!",
+    "image": "honda",
+    "category": "Web Development",
+    "links": {
+      "view": "https://github.com/Moizgith/Honda-Clone.git",
+      "code": "https://github.com/Moizgith/Honda-Clone.git"
+    }
+  },
+  {
+    "name": "Real State Website",
+    "desc": "Just a student coding their way into the real estate world 🛠️🏡 Stay tuned for something awesome!",
+    "image": "realestate",
+    "category": "Web App",
+    "links": {
+      "view": "https://github.com/Moizgith/Real-Estate.git",
+      "code": "https://github.com/Moizgith/Real-Estate.git"
+    }
+  },
+  {
+    "name": "Contact Me",
+    "desc": "Contact Us Design For  web applications",
+    "image": "contactus",
+    "category": "web development",
+    "links": {
+      "view": "https://github.com/Moizgith/Contact-Us.git",
+      "code": "https://github.com/Moizgith/Contact-Us.git"
+    }
+  },
+  {
+    "name": "Animated Gallery Slidebar",
+    "desc": "Animated Gallery in web slidebar",
+    "image": "galleryslidebar",
+    "category": "web dev",
+    "links": {
+      "view": "https://github.com/Moizgith/animated-galley-slidebar.git",
+      "code": "https://github.com/Moizgith/animated-galley-slidebar.git"
+    }
+  },
+  {
+    "name": "Weapon Studio",
+    "desc": "Mythological Weapons in one Frame",
+    "image": "weaponstudio",
+    "category": "web dev",
+    "links": {
+      "view": "https://github.com/Moizgith/WeaponStudio.git",
+      "code": "https://github.com/Moizgith/WeaponStudio.git"
+    }
+  }]
